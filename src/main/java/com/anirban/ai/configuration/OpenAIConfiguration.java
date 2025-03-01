@@ -51,6 +51,12 @@ public class OpenAIConfiguration {
 		}
 	}
 
+
+
+	public String getOpenAIApiKey() {
+		return openAIApiKey;
+	}
+
 	
 	
 }
